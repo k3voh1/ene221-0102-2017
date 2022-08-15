@@ -1,5 +1,5 @@
 .header {
-  background: rgb(0, 22, 43) url("/images/image10.jpg");
+  background: rgb(0, 22, 43) url("../../images/image10.jpg");
   background-size: cover;
   background-position: center;
   background-repeat: no-repeat;
