@@ -2,11 +2,11 @@
 Welcome to the premier destination for gaming and e-sports news, reviews, and community engagement. Our website provides you with the latest information on the most popular games, as well as in-depth reviews and analysis of the e-sports scene.
 
 **Features**
-*Stay up-to-date on the latest gaming news and reviews.
-*Connect with other gamers and e-sports enthusiasts in our community forums.
-*Participate in online tournaments for cash prizes.
-*Watch live streams and highlights from the biggest e-sports events.
-*Personalized content recommendations based on your interests.
+* Stay up-to-date on the latest gaming news and reviews.
+* Connect with other gamers and e-sports enthusiasts in our community forums.
+* Participate in online tournaments for cash prizes.
+* Watch live streams and highlights from the biggest e-sports events.
+* Personalized content recommendations based on your interests.
 
 **Getting Started**
 * Create an account on our website.
